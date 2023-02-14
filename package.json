@@ -4,7 +4,6 @@
   "description": "backend_contact_book",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "author": "Phuc_b1910432",
